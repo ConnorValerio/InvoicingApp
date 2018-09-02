@@ -1,0 +1,2 @@
+# InvoicingApp
+JavaFX Invoicing Application
