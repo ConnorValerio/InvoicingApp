@@ -1,0 +1,39 @@
+.table-row-cell:filled:selected:focused, .table-row-cell:filled:selected {
+	-fx-background-color: #808080;
+	-fx-background-insets: 0.0;
+    -fx-background-radius: 0.0;
+    
+}
+
+.table-row-cell:selected .text {
+       -fx-fill: white;    
+}
+
+.table-view {
+	-fx-focus-color: #808080;
+}
+
+.textLabel {
+	-fx-font-size: 12.0pt;
+	-fx-font-weight: bold;
+	-fx-fill: #494949;
+}
+
+.button {
+	-fx-background-color: #808080;
+	-fx-text-fill: #FFFFFF;
+}
+
+.button:hover {
+	-fx-background-color: b5b5b5;
+	-fx-text-fill: #000000;
+}
+
+.button:pressed {
+	-fx-background-color: #5a5a5a;
+	-fx-text-fill: #FFFFFF;
+	-fx-font-weight: bold;
+}
+
+
+
